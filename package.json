@@ -1,0 +1,16 @@
+{
+  "name": "@machinat/babel-preset",
+  "version": "0.1.0-beta",
+  "author": "Patrick Liu <zeldalink0515@gmail.com>  (https://github.com/lrills)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machinat/babel-preset.git"
+  },
+  "homepage": "https://github.com/machinat/babel-preset#readme",
+  "bugs": "https://github.com/machinat/babel-preset",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.10.4",
+    "@babel/plugin-transform-react-jsx": "^7.10.4"
+  }
+}
